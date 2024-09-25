@@ -39,13 +39,6 @@ You are required to create a simple HTML-only website with multiple pages. The w
 4. **Contact**: 
     - A page with a basic contact form structure (no functionality needed).
 
-## Example Mockup
-You can use the following mockup example to help structure your website. Remember, the focus is on structure, not styling:
-- Header
-- Navigation bar (links to all pages)
-- Main content section
-- Footer
-
 ## How to Get Started
 1. Clone or download the repository.
 2. Create a folder for the website and structure the files for each of the pages (e.g., `index.html`, `projects.html`, `articles.html`, `contact.html`).

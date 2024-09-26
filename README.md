@@ -47,5 +47,6 @@ You are required to create a simple HTML-only website with multiple pages. The w
 5. Test the navigation by moving between pages.
 
 ## Project Link
-For more details and guidance, check out the [Basic HTML Website Project Guide](https://roadmap.sh/projects/basic-html-website).
+- You can view the live version of the project here: [Single Page CV Project](https://khifayath007.github.io/Single-Page-CV/).
+- For more details and guidance, check out the [Basic HTML Website Project Guide](https://roadmap.sh/projects/basic-html-website).
 
